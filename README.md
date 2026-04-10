@@ -10,7 +10,7 @@ Produces three publication-quality charts saved to `/output/`
 
 Why I built this
 
-Reading Peter Thiel's Zero to One and Marc Andreessen's Techno-Optimist Manifesto got me thinking seriously about the relationship between technology, state capability, and national security. Palantir's work — building data infrastructure for defence and government — sits directly at that intersection. I wanted to understand the data behind the funding commitments that underpin it.
+Reading Peter Thiel's Zero to One and Marc Andreessen's Techno-Optimist Manifesto got me thinking seriously about the relationship between technology, state capability, and national security. Defence Tech's work — building data infrastructure for defence and government — sits directly at that intersection. I wanted to understand the data behind the funding commitments that underpin it.
 The question that motivated this: after decades of underspending, are NATO members actually changing behaviour in response to a genuine security threat, or is the rhetoric outpacing the numbers?
 The data gives a mixed answer. Poland is a standout — spending nearly 4% of GDP by 2023, the highest in the dataset. Germany finally broke 2% in 2023 after years of political resistance. The UK has held roughly flat just above the target. The US, despite spending nearly 3.5% of GDP, frequently lectures allies who spend far less.
 
